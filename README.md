@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Video Walkthrough](https://i.imgur.com/g1KKMH7.gif)
+https://imgur.com/a/WqhN00H
 
 GIF created with ...  
 <!-- Recommended tools:
